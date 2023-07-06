@@ -15,8 +15,8 @@ CryptoWebApp is a web application that provides comprehensive information, real-
 
 - HTML, CSS, JavaScript
 - React.js
-- Redux
-- [API Name and Version] - For fetching cryptocurrency data and news
+- React Redux and Toolkit
+- [Coinranking API] - For fetching cryptocurrency data and news
 
 ## 📚 What I Learned
 
