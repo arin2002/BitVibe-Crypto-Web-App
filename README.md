@@ -2,7 +2,7 @@
 
 CryptoWebApp is a web application that provides comprehensive information, real-time data, news, and trends about cryptocurrencies.
 
-![CryptoWebApp Screenshot](./screenshots/screenshot.png)
+![CryptoWebApp Screenshot](./screenshots/homepage.png)
 
 ## ✨ Features
 
