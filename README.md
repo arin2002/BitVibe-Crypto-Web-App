@@ -37,10 +37,20 @@ CryptoWebApp is a web application that provides comprehensive information, real-
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
+### Homepage
 ![Homepage](./screenshots/homepage.png)
+
+### Cryptocurrency Details
 ![Cryptocurrency Details](./screenshots/details.png)
+
+### News Section
 ![News Section](./screenshots/news.png)
+
+### Watchlist
 ![Watchlist](./screenshots/watchlist.png)
+
 
 ## 🤝 Contributing
 
@@ -58,4 +68,4 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 ## 📧 Contact
 
-For any inquiries or support, please contact [Your Name] at [your-email@example.com].
+For any inquiries or support, please contact [Your Name] at [arin.agarwal02Q].
