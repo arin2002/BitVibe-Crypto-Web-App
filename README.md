@@ -14,10 +14,9 @@ CryptoWebApp is a web application that provides comprehensive information, real-
 ## 🛠️ Technologies Used
 
 - HTML, CSS, JavaScript
-- React.js (or mention the frontend framework/library you used)
-- Redux (or mention any state management tool used)
+- React.js
+- Redux
 - [API Name and Version] - For fetching cryptocurrency data and news
-- [Additional technologies or libraries used]
 
 ## 📚 What I Learned
 
@@ -77,10 +76,6 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 3. 📝 Commit your changes: `git commit -m 'Add some feature'`
 4. 🚀 Push to the branch: `git push origin feature/your-feature`
 5. 🎉 Open a pull request
-
-## 📄 License
-
-[Specify the license under which your project is distributed]
 
 ## 📧 Contact
 
