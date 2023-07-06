@@ -79,4 +79,4 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 ## 📧 Contact
 
-For any inquiries or support, please contact Me at arin.agarwal02@gmail.com.
+For any inquiries or support, please contact Me at  arin.agarwal02@gmail.com.
