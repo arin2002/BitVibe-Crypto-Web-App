@@ -16,7 +16,7 @@ CryptoWebApp is a web application that provides comprehensive information, real-
 - HTML, CSS, JavaScript
 - React.js
 - React Redux and React Redux Toolkit
-- [Coinranking API V2] - For fetching cryptocurrency data and news
+- Coinranking API V2 - For fetching cryptocurrency data and news
 
 ## 📚 What I Learned
 
@@ -24,7 +24,7 @@ During the development of this project, I gained valuable insights and acquired 
 
 - **Advanced React.js Concepts:** I deepened my understanding of React.js and gained hands-on experience with advanced concepts such as hooks, context API, and custom hooks. It allowed me to build the web app with more efficiency and maintainability.
 
-- **API Integration:** I learned how to integrate external APIs to fetch real-time data and news about cryptocurrencies. Working with the [API Name] provided valuable insights into handling API requests, managing data responses, and error handling.
+- **API Integration:** I learned how to integrate external APIs to fetch real-time data and news about cryptocurrencies. Working with the Coinranking API V2 provided valuable insights into handling API requests, managing data responses, and error handling.
 
 - **Data Visualization:** I acquired skills in data visualization by incorporating chart libraries like Chart.js. It enabled me to display cryptocurrency price histories and other relevant data in an intuitive and visually appealing manner.
 
