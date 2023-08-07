@@ -17,6 +17,7 @@ const App = () => {
         <Layout>
           <div className="routes">
             <Routes>
+            {/* exact mtlb exact path hona chaiye route ka match */}
               <Route exact path="/" element={<Homepage />} />
               <Route exact path="/exchanges" element={<Exchanges />} />
               <Route
