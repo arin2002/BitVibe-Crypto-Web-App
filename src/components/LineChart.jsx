@@ -16,6 +16,7 @@ const LineChart = ({coinHistory, currentPrice, coinName}) => {
     const arr = coinHistory?.data?.history;
 
     for (let i = 0; i < arr?.length; i++) {
+      // insert new element to the start not at back
       coinPrice.unshift(arr[i]?.price);
 
       let timestamp = arr[i]?.timestamp;
