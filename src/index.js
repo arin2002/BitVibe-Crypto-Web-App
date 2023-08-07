@@ -10,6 +10,7 @@ const container = document.getElementById("root");
 const root = ReactDOM.createRoot(container);
 
 root.render(
+  // when doing routing this is to be wrapped around
   <BrowserRouter>
   {/* WE Need to wrap it in provider */}
   {/* now every element has access to store */}
