@@ -15,6 +15,8 @@ const createRequest = (url) => ({
 });
 
 export const cryptoNewsApi = createApi({
+  // This field specifies the slice name under which the data fetched by this API service will be stored in the Redux store
+  //  It will be accessible as state.cryptoNewsApi within your Redux store.
   reducerPath: "cryptoNewsApi",
   baseQuery: fetchBaseQuery({ baseUrl }),
   endpoints: (builder) => ({
